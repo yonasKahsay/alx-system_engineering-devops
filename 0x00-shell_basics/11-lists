@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lnUa /boot 
+ls -lnUa /alx-system_engineering-devops  
