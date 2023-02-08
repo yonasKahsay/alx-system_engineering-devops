@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -afmv --file-type 
